@@ -7,7 +7,7 @@ This repository contains **code** of the experiments of AISTATS 2024 paper [Mini
 * Repository `Gaussian_location` contains code used in the experiments for the **Gaussian location mixture model**.
 * Repository `Gaussian_location_scale` contains code used in the experiments for the **Gaussian location scale mixture model**.
 * Repository `Bayesian_sampling` contains code used in the experiments for the **Bayesian sampling**.
-* Repository `Comparisons_with_WGF` contains code used in the experiments for the [**Comparison with Wassersten gradient flows**](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows).
+* Repository `Comparisons_with_WGF` contains code used in the experiments for the **Comparison with [Wassersten gradient flows](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows)**.
 * Repository `impact_of_tau_figure_5` contains code used in the experiments for **figure 5** of the **Impact of IKLPD Step Size** in Appendix C.4.
 * Repository `impact_of_tau_figure_6` contains code used in the experiments for **figure 6** of the **Impact of IKLPD Step Size** in Appendix C.4.
 * Repository `impact_of_tau_figure_7` contains code used in the experiments for **figure 7** of the **Impact of IKLPD Step Size** in Appendix C.4.
