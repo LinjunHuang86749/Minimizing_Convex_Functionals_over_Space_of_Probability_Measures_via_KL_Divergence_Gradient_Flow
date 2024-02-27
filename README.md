@@ -9,4 +9,4 @@ An in-depth paragraph about your project and overview of use.
 
 ## Dependencies
 
-* This project is based on the `normflows` package. [normflows]([https://github.com/matiassingers/awesome-readme](https://github.com/VincentStimper/normalizing-flows/tree/master))
+* This project is based on the `normflows` package. [normflows](https://github.com/VincentStimper/normalizing-flows/tree/master)
