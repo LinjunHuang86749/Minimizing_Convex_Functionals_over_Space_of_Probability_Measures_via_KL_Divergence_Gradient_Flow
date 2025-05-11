@@ -1,6 +1,6 @@
 # Minimizing_Convex_Functionals_over_Space_of_Probability_Measures_via_KL_Divergence_Gradient_Flow
 
-This repository contains **code** of the experiments of AISTATS 2024 paper [Minimizing Convex Functionals over Space of Probability Measures via KL Divergence Gradient Flow](https://arxiv.org/abs/2311.00894), [Rentian Yao](https://sites.google.com/view/rentianyao), [Linjun Huang](https://linjun-site.netlify.app/), and [Yun Yang](https://sites.google.com/site/yunyangstat/). We introduce an implicit scheme, called the implicit KL proximal descent (IKLPD) algorithm, for discretizing a continuous-time gradient flow relative to the Kullback–Leibler (KL) divergence for minimizing a convex target functional. We perform experiments to validate the effectiveness of our approach works in different scenarios.
+This repository contains **code** of the experiments of AISTATS 2024 paper [Minimizing Convex Functionals over Space of Probability Measures via KL Divergence Gradient Flow](https://proceedings.mlr.press/v238/yao24a/yao24a.pdf), [Rentian Yao](https://sites.google.com/view/rentianyao), [Linjun Huang](https://linjun-site.netlify.app/), and [Yun Yang](https://sites.google.com/site/yunyangstat/). We introduce an implicit scheme, called the implicit KL proximal descent (IKLPD) algorithm, for discretizing a continuous-time gradient flow relative to the Kullback–Leibler (KL) divergence for minimizing a convex target functional. We perform experiments to validate the effectiveness of our approach works in different scenarios.
 
 ## Description
 
